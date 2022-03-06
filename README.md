@@ -8,6 +8,23 @@
 
 <hr></hr>
 
+---
+
+### Contact me!:
+
+<br>
+<div align= "center">
+<a href=https://www.linkedin.com/in/joel-suarez-1990/><img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
+
+<a href= https://www.instagram.com/joe.suarez33/><img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png"/>
+
+<a href= https://www.facebook.com/profile.php?id=100008641998358/><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"/>
+</div>
+<br />
+
+---
+
+
 ### Tools and languajes I use:
 
 <br />
