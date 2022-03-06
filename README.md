@@ -32,7 +32,7 @@
 
 <a href= https://netbeans.apache.org/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachenetbeanside.svg" width="30" height="30"/><p>Apache NetBeans</p>
  
- <a href= https://reactjs.org/><img align="left" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png" /><p>React Js</p>
+ <a href= https://reactjs.org/><img align="left" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png" width="30" height="30"/><p>React Js</p>
 
 <a href= https://www.mysql.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30" /><p>MySQL</p>
 
