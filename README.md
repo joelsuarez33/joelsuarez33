@@ -55,3 +55,27 @@
 |---|---|
 |Q1-Q2 2022|React Js (in process)|
 |Q3-Q4 2022|React Js - Node.Js|
+ 
+ |---|---|
+ 
+ <br />
+ 
+ ### Proyects:
+ 
+ https://cryptoarg.netlify.app/
+ 
+ https://bienes-raices-js.netlify.app/
+ 
+ https://administrador-de-citas-js.netlify.app/
+ 
+ https://presupuesto-online-js.netlify.app/
+ 
+ https://buscador-de-autos-js.netlify.app/
+ 
+ https://proyecto-freelance.netlify.app/
+ 
+ 
+ 
+ 
+ 
+ 
