@@ -54,11 +54,13 @@
 |Quarter|Course|
 |---|---|
 |Q1-Q2 2022|React Js (in process)|
-|Q3-Q4 2022|React Js - Node.Js|
+|Q3-Q4 2022|Node Js - MongoDB|
  
- |---|---|
  
  <br />
+
+ ---
+
  
  ### Proyects:
  
