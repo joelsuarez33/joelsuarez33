@@ -48,19 +48,6 @@
 <br />
 
  ---
-
-### My Roadmap!!:
- 
-|Quarter|Course|
-|---|---|
-|03-04 2022|React Js (in process)|
-|05-06 2022|Node Js - MongoDB|
- 
- 
- <br />
-
- ---
-
  
  ### Proyects:
  
@@ -74,9 +61,18 @@
  
  https://buscador-de-autos-js.netlify.app/
  
- https://proyecto-freelance.netlify.app/
+ https://proyecto-freelance.netlify.app/ 
  
+ <br />
+
+ ---
+
+ ### My Roadmap!!:
  
+|Quarter|Course|
+|---|---|
+|03-04 2022|React Js (in process)|
+|05-06 2022|Node Js - MongoDB|
  
  
  
