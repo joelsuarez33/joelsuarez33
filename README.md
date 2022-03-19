@@ -53,8 +53,8 @@
  
 |Quarter|Course|
 |---|---|
-|Q1-Q2 2022|React Js (in process)|
-|Q3-Q4 2022|Node Js - MongoDB|
+|03-04 2022|React Js (in process)|
+|05-06 2022|Node Js - MongoDB|
  
  
  <br />
