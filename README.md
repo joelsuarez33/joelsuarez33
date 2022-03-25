@@ -1,6 +1,6 @@
 👋 Welcome! My name is Joel Suarez
 
-📖 Currently studying JavaScript ES6, JSX, Typescript development and HTML-CSS!
+📖 Currently studying JavaScript, Typescript development and HTML-CSS!
 
 ❤️ React-Js
 
