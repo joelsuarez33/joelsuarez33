@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+FrontEnd+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-👋 Welcome! My name is Joel Suarez
+👋 My name is Joel Suarez
 
 📖 Currently studying JavaScript, Typescript development and HTML-CSS!
 
